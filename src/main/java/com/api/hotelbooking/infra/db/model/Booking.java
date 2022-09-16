@@ -47,7 +47,6 @@ public class Booking {
     this.checkout = checkout;
   }
 
-  // TODO: verify is possible to remove
   public boolean isDeleted() {
     return deleted;
   }

@@ -7,7 +7,6 @@ import javax.validation.constraints.NotNull;
 import lombok.Getter;
 import lombok.Setter;
 
-// TODO: Verificar se é possível mudar para record
 @Getter
 @Setter
 public class PlaceBookingDTO {
